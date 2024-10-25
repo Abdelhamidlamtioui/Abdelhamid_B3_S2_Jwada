@@ -1,6 +1,4 @@
-Here's the updated **README.md** with your email:
 
-```markdown
 # Online Order Management System
 
 ## Project Context
